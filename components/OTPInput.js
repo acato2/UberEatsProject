@@ -47,7 +47,6 @@ const styles = StyleSheet.create({
   otpInput: {
     width: 50,
     height: 50,
-    borderWidth: 1,
     borderColor: "gray",
     textAlign: "center",
     fontSize: 20,

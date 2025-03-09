@@ -24,7 +24,7 @@ const DealsTabsNavigator = ({ navigation }) => {
         screenOptions={({ route }) => ({
           tabBarStyle: {
             backgroundColor: "white",
-            borderBottomWidth: 4,
+            borderBottomWidth: 5,
             borderBottomColor: "#EDEDED",
             paddingBottom: 5,
           },
@@ -53,7 +53,7 @@ const DealsTabsNavigator = ({ navigation }) => {
           },
           tabBarIndicatorStyle: {
             backgroundColor: "black",
-            height: 4,
+            height: 5,
           },
         })}
       >

@@ -171,7 +171,7 @@ const styles = StyleSheet.create({
   },
 
   navItem: {
-    paddingHorizontal: 12,
+    paddingHorizontal: 15,
   },
 
   navText: {
