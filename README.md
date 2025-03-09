@@ -38,14 +38,33 @@ npm start
 ## 📱 Screens  
 
 ### Landing Screen
-<img src="https://github.com/acato2/UberEatsProject/blob/master/screenshots/landing.png" height="600">
+<img src="https://github.com/acato2/UberEatsProject/blob/main/screenshots/landingscreen.png" height="600">
+
 ### Phone Input Screen
+<img src="https://github.com/acato2/UberEatsProject/blob/main/screenshots/phoneinputscreen.png" height="600">
+
 ### Phone Verification Screen
+<img src="https://github.com/acato2/UberEatsProject/blob/main/screenshots/phoneverificationscreen.png" height="600">
+<img src="https://github.com/acato2/UberEatsProject/blob/main/screenshots/phoneverificationscreen2.png" height="600">
+
 ### Email Verification Screen
+<img src="https://github.com/acato2/UberEatsProject/blob/main/screenshots/emailverificationscreen.png" height="600">
+
 ### Welcome Screen
+<img src="https://github.com/acato2/UberEatsProject/blob/main/screenshots/welcomescreen.png" height="600">
+
 ### Search Categories Screen
+<img src="https://github.com/acato2/UberEatsProject/blob/main/screenshots/searchcategoriesscreen.png" height="600">
+
 ### Search Screen
+<img src="https://github.com/acato2/UberEatsProject/blob/main/screenshots/searchscreen.png" height="600">
+
 ### Offers Screen
+<img src="https://github.com/acato2/UberEatsProject/blob/main/screenshots/offersscreen.png" height="600">
+
 ### Rewards Screen
+<img src="https://github.com/acato2/UberEatsProject/blob/main/screenshots/rewardsscreen.png" height="600">
+
 ### Account Screen
+<img src="https://github.com/acato2/UberEatsProject/blob/main/screenshots/accountscreen.png" height="600">
 
