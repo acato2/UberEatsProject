@@ -43,6 +43,9 @@ npm start
 ### Phone Input Screen
 <img src="https://github.com/acato2/UberEatsProject/blob/main/screenshots/phoneinputscreen.png" height="600">
 
+### Password Input Screen
+<img src="https://github.com/acato2/UberEatsProject/blob/main/screenshots/passwordinputscreen.png" height="600">
+
 ### Phone Verification Screen
 <img src="https://github.com/acato2/UberEatsProject/blob/main/screenshots/phoneverificationscreen.png" height="600">
 <img src="https://github.com/acato2/UberEatsProject/blob/main/screenshots/phoneverificationscreen2.png" height="600">
