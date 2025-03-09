@@ -68,3 +68,12 @@ npm start
 ### Account Screen
 <img src="https://github.com/acato2/UberEatsProject/blob/main/screenshots/accountscreen.png" height="600">
 
+## Navigation 
+### Emulator video
+[Watch - Emulator Video](https://github.com/acato2/UberEatsProject/blob/main/videos/emulatorvideo.mp4)
+
+### Phone video
+[Watch - Phone video](https://github.com/acato2/UberEatsProject/blob/main/videos/phonevideo.mp4)
+
+
+
