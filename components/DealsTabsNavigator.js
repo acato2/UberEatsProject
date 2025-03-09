@@ -9,7 +9,7 @@ const Tab = createMaterialTopTabNavigator();
 
 const DealsTabsNavigator = ({ navigation }) => {
   return (
-    <View style={{ flex: 1, backgroundColor: "white", marginTop: 30 }}>
+    <View style={{ flex: 1, backgroundColor: "white", paddingTop: 30 }}>
       <View style={styles.header}>
         <TouchableOpacity
           onPress={() => navigation.goBack()}
