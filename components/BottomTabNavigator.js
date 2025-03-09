@@ -30,6 +30,10 @@ const BottomTabNavigator = () => {
       screenOptions={{
         headerShown: false,
         tabBarActiveTintColor: "black",
+        tabBarStyle: {
+          paddingVertical: 10,
+          height: 55,
+        },
       }}
     >
       <Tab.Screen

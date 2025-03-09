@@ -166,7 +166,7 @@ const styles = StyleSheet.create({
   navBar: {
     flexDirection: "row",
     paddingBottom: 15,
-    paddingTop: 5,
+    paddingTop: 10,
     paddingHorizontal: 20,
   },
 

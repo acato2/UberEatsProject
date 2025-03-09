@@ -93,7 +93,7 @@ const styles = StyleSheet.create({
   menuItem: {
     flexDirection: "row",
     alignItems: "center",
-    padding: 13,
+    padding: 14,
     marginLeft: 9,
   },
   menuIcon: {
@@ -104,14 +104,14 @@ const styles = StyleSheet.create({
     marginLeft: 8,
   },
   menuText: {
-    fontSize: 16,
+    fontSize: 14,
     fontWeight: "500",
   },
   subText: {
     fontSize: 14,
   },
   aboutText: {
-    fontSize: 16,
+    fontSize: 12,
     color: "gray",
     padding: 15,
     marginLeft: 9,
