@@ -130,7 +130,6 @@ const styles = StyleSheet.create({
     backgroundColor: "white",
     marginBottom: 15,
     overflow: "hidden",
-    elevation: 3,
   },
   image: {
     width: "100%",
@@ -160,9 +159,7 @@ const styles = StyleSheet.create({
     color: "black",
   },
   infoContainer: {
-    paddingHorizontal: 10,
-    paddingTop: 10,
-    paddingBottom: 15,
+    padding: 10,
   },
   restaurantName: {
     fontSize: 16,
